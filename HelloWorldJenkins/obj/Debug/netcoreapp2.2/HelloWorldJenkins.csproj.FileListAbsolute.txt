@@ -1,0 +1,11 @@
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\bin\Debug\netcoreapp2.2\HelloWorldJenkins.deps.json
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\bin\Debug\netcoreapp2.2\HelloWorldJenkins.runtimeconfig.json
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\bin\Debug\netcoreapp2.2\HelloWorldJenkins.runtimeconfig.dev.json
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\bin\Debug\netcoreapp2.2\HelloWorldJenkins.dll
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\bin\Debug\netcoreapp2.2\HelloWorldJenkins.pdb
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\obj\Debug\netcoreapp2.2\HelloWorldJenkins.csprojAssemblyReference.cache
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\obj\Debug\netcoreapp2.2\HelloWorldJenkins.csproj.CoreCompileInputs.cache
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\obj\Debug\netcoreapp2.2\HelloWorldJenkins.AssemblyInfoInputs.cache
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\obj\Debug\netcoreapp2.2\HelloWorldJenkins.AssemblyInfo.cs
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\obj\Debug\netcoreapp2.2\HelloWorldJenkins.dll
+C:\Users\sramdurg\source\repos\HelloWorldJenkins\HelloWorldJenkins\obj\Debug\netcoreapp2.2\HelloWorldJenkins.pdb
